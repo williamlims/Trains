@@ -12,4 +12,8 @@
 <h3>IMPORTANT!</h3>
 <b>The files for testing are located in the project's FILES folder.<br><br>
   
-![image](https://user-images.githubusercontent.com/22870929/143529559-7dc70b94-bb46-43e8-b156-92c0ad66686e.png)
+![image](https://user-images.githubusercontent.com/22870929/143529559-7dc70b94-bb46-43e8-b156-92c0ad66686e.png) <br><br>
+  
+<h3>UPLOAD THE FILES WITH THE VERTICES AND GRAPH</h3>
+![image](https://user-images.githubusercontent.com/22870929/143658786-3f825b58-78d8-4c12-8256-1795a3d6531e.png)
+
